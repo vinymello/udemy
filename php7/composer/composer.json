@@ -1,0 +1,10 @@
+{
+    "name": "vmello/composer",
+    "description": "Udemy Curso PHP7",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        //"monologo/monolog":"1.0.*"
+        
+    }
+}
